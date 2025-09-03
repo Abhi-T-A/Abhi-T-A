@@ -1,4 +1,5 @@
-🔗 ʜɪ 👋 ɪ'ᴍ ᴀʙʜɪ ᴛ ᴀ from India
+🔗 ʜɪ 👋 ɪ'ᴍ ᴀʙʜɪ ᴛ ᴀ 𝗙𝗿𝗼𝗺 𝗜𝗻𝗱𝗶𝗮 <img src="https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg" width="25"/>
+
 
 🎓 ᴘᴜʀsᴜɪɴɢ *ʙ.ᴇ ɪɴ ᴄᴏᴍᴘᴜᴛᴇʀ sᴄɪᴇɴᴄᴇ & ᴇɴɢɪɴᴇᴇʀɪɴɢ*  
 🤖 *ᴀɪ/ᴍʟ & ᴅᴀᴛᴀ sᴄɪᴇɴᴄᴇ ᴇɴᴛʜᴜsɪᴀsᴛ* | ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ  
@@ -42,7 +43,7 @@
 ## Connect with Me 🌐  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhi-t-a-984a1a355)
-
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:abhi.t.a1806@gmail.com)
 ---
   
 
