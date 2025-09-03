@@ -1,9 +1,8 @@
-🔗  Hi  👋 I'm Abhi T A  
+🔗 ʜɪ 👋 ɪ'ᴍ ᴀʙʜɪ ᴛ ᴀ 🇮🇳  
 
-
-🎓 Pursuing *B.E. in Computer Science & Engineering*  
-🤖 *AI/ML & Data Science Enthusiast* | Currently Learning in this domain  
-💡 Passionate about solving problems with "Data, Code, and Logic"...    from India <img src="https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg" width="25"/>
+🎓 ᴘᴜʀsᴜɪɴɢ *ʙ.ᴇ ɪɴ ᴄᴏᴍᴘᴜᴛᴇʀ sᴄɪᴇɴᴄᴇ & ᴇɴɢɪɴᴇᴇʀɪɴɢ*  
+🤖 *ᴀɪ/ᴍʟ & ᴅᴀᴛᴀ sᴄɪᴇɴᴄᴇ ᴇɴᴛʜᴜsɪᴀsᴛ* | ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ  
+💡 ᴘᴀssɪᴏɴᴀᴛᴇ ᴀʙᴏᴜᴛ sᴏʟᴠɪɴɢ ᴘʀᴏʙʟᴇᴍs ᴡɪᴛʜ **ᴅᴀᴛᴀ | ᴄᴏᴅᴇ | ʟᴏɢɪᴄ**
 
 
 ---
@@ -23,7 +22,7 @@
 
 ---
 
-🔗 📚 Core Areas of Knowledge
+🔗 📚 Areas of Knowledge
 
 - 📊 *Statistics & Probability*
 - 📈 *Inferential Statistics*
