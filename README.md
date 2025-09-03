@@ -9,6 +9,7 @@
 ---
 
 🔗 🔧 Languages & Tools I Work With
+
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo-java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -17,6 +18,7 @@
 ---
 
 🔗 📊 Data Science Skills
+
 ![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-003B57?style=for-the-badge&logo=plotly&logoColor=white)
@@ -26,6 +28,7 @@
 ---
 
 🔗 📚 Core Areas of Knowledge
+
 - 📊 *Statistics & Probability*
 - 📈 *Inferential Statistics*
 - 🔢 *Linear Algebra for ML*
@@ -34,12 +37,15 @@
 ---
 
 🔗 📊 GitHub Stats
-![Abhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhi-T-A&show_icons=true&theme=radical)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abhi-T-A&theme=dark)
+
+![Abhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhi-T-A&show_icons=true&theme=transparent)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abhi-T-A&theme=transparent)
+
 
 ---
 
-Reach Me At
+🔗Reach Me At
+
 📧 *abhi.t.a1806@gmail.com*
 
 ---
