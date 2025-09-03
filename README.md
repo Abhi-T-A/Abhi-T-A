@@ -40,11 +40,10 @@
 
 ---
 
-🔗Reach Me At
+## Connect with Me 🌐  
 
-📧 *abhi.t.a1806@gmail.com*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhi-t-a-984a1a355)
 
 ---
-
   
 
