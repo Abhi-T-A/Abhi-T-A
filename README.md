@@ -22,15 +22,6 @@
 
 ---
 
-🔗 📚 Areas of Knowledge
-
-- 📊 *Statistics & Probability*
-- 📈 *Inferential Statistics*
-- 🔢 *Linear Algebra for ML*
-- 🤖 *Machine Learning Fundamentals*
-
----
-
 🔗 📊 GitHub Stats
 
 ![Abhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhi-T-A&show_icons=true&theme=transparent)
