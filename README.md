@@ -10,7 +10,6 @@
 🎓 *B.E — Computer Science & Engineering (CSE)*  
 🤖 Passionate about **AI/ML, Data Science & Full-Stack Development**  
 ⚡ Love building projects using **Logic • Data • Clean Code**  
-🌱 Currently learning advanced Python, ML workflows & backend development
 
 ---
 
