@@ -35,9 +35,6 @@
 ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-FE9900?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
 ---
-
-# 🐍 Contribution Snake Graph
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/Abhi-T-A/Abhi-T-A/output/github-contribution-grid-snake.svg">
 </p>
