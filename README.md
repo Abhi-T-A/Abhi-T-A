@@ -36,23 +36,6 @@
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abhi-T-A&theme=algolia&margin-w=10&margin-h=10&row=1&column=6" />
-</p>
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhi-T-A&show_icons=true&theme=react" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhi-T-A&theme=react" height="150"/>
-</p>
-
----
-
 # 🐍 Contribution Snake Graph
 
 <p align="center">
