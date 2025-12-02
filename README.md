@@ -35,12 +35,6 @@
 ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-FE9900?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
 ---
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Abhi-T-A/Abhi-T-A/output/github-contribution-grid-snake.svg">
-</p>
-
----
-
 # 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhi-t-a-984a1a355)  
