@@ -1,40 +1,54 @@
 # Hi there, I'm Abhi 👋
 
 🎓 Computer Science Engineering Student  
-💻 Passionate about Java, Data Structures & Problem Solving  
+💻 Java | AI/ML | Data Science Enthusiast  
 🚀 Aspiring Software Developer
 
 ---
 
 ## 💡 About Me
-- 🌱 Currently learning **Advanced Java & System Design**
-- 🧠 Practicing **Data Structures and Algorithms**
+- 🌱 Currently learning **Java, Data Structures & System Design**
+- 🤖 Basic knowledge of **Artificial Intelligence & Machine Learning**
+- 📊 Experience with **Data Science projects**
 - 💻 Building projects to improve real-world coding skills
-- 🎯 Goal: Become a **Software Engineer in a product-based company**
 
 ---
 
 ## 🛠️ Skills
+
+**Programming Languages**
 - Java
+- Python
+
+**Core Concepts**
 - Data Structures & Algorithms
+- Object Oriented Programming
+
+**AI / Data Science**
+- Machine Learning Basics
+- Data Analysis
+- Pandas
+- NumPy
+- Data Visualization
+
+**Tools**
 - Git & GitHub
-- Problem Solving
-- Basic Python & SQL
+- Jupyter Notebook
+- VS Code
 
 ---
 
 ## 🚀 Current Focus
-- Solving **DSA problems daily**
-- Building **Java-based projects**
-- Improving **coding and logical thinking**
+- Practicing **DSA using Java**
+- Building **Java projects**
+- Improving **problem solving skills**
 
 ---
 
-## 📌 Goals for 2026
+## 📌 Goals
 - Solve **500+ DSA problems**
-- Build **3–5 real-world projects**
-- Contribute to **open-source projects**
-- Get placed in a **product-based company**
+- Build **real-world software projects**
+- Become a **Software Engineer**
 
 ---
 
