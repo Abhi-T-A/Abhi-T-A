@@ -24,13 +24,6 @@
 - Data Structures & Algorithms
 - Object Oriented Programming
 
-**AI / Data Science**
-- Machine Learning Basics
-- Data Analysis
-- Pandas
-- NumPy
-- Data Visualization
-
 **Tools**
 - Git & GitHub
 - Jupyter Notebook
