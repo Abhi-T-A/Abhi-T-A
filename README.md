@@ -251,4 +251,11 @@ Grow as a Backend AI Engineer
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2563EB&height=80&section=footer"/>
+<div align="center">
+
+<svg width="100%" height="220" viewBox="0 0 1200 220" xmlns="http://www.w3.org/2000/svg">
+  <path fill="#38BDF8"
+        d="M0,100 C250,180 450,20 700,90 C900,150 1050,40 1200,100 L1200,220 L0,220 Z"/>
+</svg>
+
+</div>
