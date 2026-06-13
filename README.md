@@ -145,25 +145,35 @@ public class AbhiTA {
 
 # 🌟 Featured Projects
 
-### 🧬 CodeDNA AI
-
-AI-powered code analysis platform that analyzes source code, identifies patterns, and provides intelligent insights to improve code quality and developer productivity.
-
-### 📚 SkillLoop AI
-
-AI-powered learning and skill development platform featuring personalized learning workflows, assessments, and performance tracking.
-
-### 🛡️ Suraksha AI
-
-Flutter-based safety and security application designed to provide users with intelligent safety features, emergency assistance, and real-time alerts.
-
-### 💳 Pay Suraksha AI
-
-AI-powered fraud detection and secure payment application developed during Hack-Olympic, focusing on safer digital transactions through intelligent analysis and fraud prevention.
-
-### 🍽️ Food Waste Management System
-
-Backend application developed using Java, Spring Boot, and PostgreSQL for efficient food waste tracking and management with database integration and REST APIs.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧬 CodeDNA AI</h3>
+      <p>AI-powered code analysis platform that analyzes source code, identifies patterns, and provides intelligent insights to improve code quality and developer productivity.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📚 SkillLoop AI</h3>
+      <p>AI-powered learning and skill development platform featuring personalized learning workflows, assessments, and performance tracking.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛡️ Suraksha AI</h3>
+      <p>Flutter-based safety and security application designed to provide users with intelligent safety features, emergency assistance, and real-time alerts.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💳 Pay Suraksha AI</h3>
+      <p>AI-powered fraud detection and secure payment application developed during Hack-Olympic, focusing on safer digital transactions through intelligent analysis and fraud prevention.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🍽️ Food Waste Management System</h3>
+      <p>Backend application developed using Java, Spring Boot, and PostgreSQL for efficient food waste tracking and management with database integration and REST APIs.</p>
+    </td>
+    <td width="50%"></td>
+  </tr>
+</table>
 
 ---
 
