@@ -1,13 +1,13 @@
 <div align="center">
 
-<!-- Animated Typing Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Abhi%20T%20A&fontSize=52&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Backend%20AI%20Engineer%20%7C%20Java%20Developer%20%7C%20AI%20%26%20ML%20Enthusiast&descAlignY=58&descSize=16" width="100%"/>
+
 <a href="https://github.com/Abhi-T-A">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Abhi+T+A+%F0%9F%91%8B;Backend+AI+Engineer+%7C+Java+Developer;Spring+Boot+%7C+REST+APIs+%7C+Generative+AI;Building+AI-Powered+Products+%F0%9F%9A%80;Always+Learning%2C+Always+Building+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Abhi+T+A+%F0%9F%91%8B;Backend+AI+Engineer+Intern+%40+FlyRank+AI;Java+%7C+Spring+Boot+%7C+PostgreSQL;Generative+AI+%7C+Machine+Learning;Always+Learning%2C+Always+Building+%E2%9C%A8" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
-<!-- Social Badges -->
 <a href="https://www.linkedin.com/in/abhi-t-a-984a1a355">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
@@ -17,7 +17,7 @@
 <a href="https://github.com/Abhi-T-A">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<img src="https://komarev.com/ghpvc/?username=Abhi-T-A&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=Abhi-T-A&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" />
 
 </div>
 
@@ -101,11 +101,11 @@ public class AbhiTA {
   <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
 </p>
 
-### 🌐 Frontend
+### 🌐 Frontend & Mobile
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 </p>
 
@@ -149,9 +149,7 @@ public class AbhiTA {
         <img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=google&logoColor=white" />
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
       </p>
-      <a href="https://github.com/Abhi-T-A">
-        <img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white" />
-      </a>
+      <a href="https://github.com/Abhi-T-A"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white" /></a>
     </td>
     <td width="50%" valign="top">
       <h3>📚 SkillLoop AI</h3>
@@ -163,38 +161,32 @@ public class AbhiTA {
         <img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=google&logoColor=white" />
         <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
       </p>
-      <a href="https://github.com/Abhi-T-A">
-        <img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white" />
-      </a>
+      <a href="https://github.com/Abhi-T-A"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white" /></a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>🛡️ Suraksha AI</h3>
       <p><strong>Flutter-Based Personal Safety App</strong></p>
-      <p>Mobile safety application with intelligent safety features, emergency assistance, and real-time alerts. Designed to enhance personal security through a user-friendly mobile experience and smart technology integration.</p>
+      <p>Mobile safety application with intelligent safety features, emergency assistance, and real-time alerts — enhancing personal security through smart technology and a user-friendly experience.</p>
       <p>
         <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-        <img src="https://img.shields.io/badge/AI_Integration-FF6F00?style=flat-square&logo=openai&logoColor=white" />
+        <img src="https://img.shields.io/badge/AI_Integration-FF6F00?style=flat-square" />
         <img src="https://img.shields.io/badge/Real--Time_Alerts-E53935?style=flat-square" />
       </p>
-      <a href="https://github.com/Abhi-T-A">
-        <img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white" />
-      </a>
+      <a href="https://github.com/Abhi-T-A"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white" /></a>
     </td>
     <td width="50%" valign="top">
       <h3>🍽️ Food Waste Management System</h3>
       <p><strong>Spring Boot REST API Backend</strong></p>
-      <p>Scalable backend REST API built with Java, Spring Boot, and PostgreSQL. Features JWT authentication, clean layered architecture, and production-ready API design for food waste tracking and management.</p>
+      <p>Scalable backend REST API with Java, Spring Boot, and PostgreSQL — featuring JWT authentication, clean layered architecture, and production-ready API design for food waste tracking.</p>
       <p>
         <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
         <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
         <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
         <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
       </p>
-      <a href="https://github.com/Abhi-T-A">
-        <img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white" />
-      </a>
+      <a href="https://github.com/Abhi-T-A"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white" /></a>
     </td>
   </tr>
 </table>
@@ -244,7 +236,7 @@ public class AbhiTA {
 
 **🥊 Hackathons Participated**
 
-- 🏅 **Hack-Olympic 2026** — JSS Science & Technology University, Mysuru *(Built Pay Suraksha AI — fraud detection system)*
+- 🏅 **Hack-Olympic 2026** — JSS Science & Technology University, Mysuru *(Pay Suraksha AI — fraud detection)*
 - 🏅 **AVINYA 2.0** — Full-Stack AI Challenge
 - 🏅 **HackVyuha 2025** — BLDEACET
 
@@ -254,16 +246,13 @@ public class AbhiTA {
 
 ```text
 2026  →  Excel as Backend AI Engineering Intern @ FlyRank AI
-          Complete 3rd semester with strong CGPA
-          Open-source contributions to Spring Boot / AI projects
+          Build & ship more AI-powered open-source projects
 
 2027  →  Software Developer / AI Engineer Intern at a product company
-          Build and ship a personal SaaS product
           Deepen expertise in system design & cloud infrastructure
 
 2028  →  Graduate with a strong portfolio of AI-powered applications
-          Join a high-growth startup or tech company as a full-time engineer
-          Contribute to impactful AI automation systems at scale
+          Join a high-growth startup as a full-time Backend / AI Engineer
 ```
 
 ---
@@ -284,8 +273,6 @@ public class AbhiTA {
 
 *"First, solve the problem. Then, write the code."*
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2563EB&height=80&section=footer" width="100%"/>
-
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
