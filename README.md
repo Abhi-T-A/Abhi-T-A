@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Abhi%20T%20A&fontSize=52&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Backend%20AI%20Engineer%20%7C%20Java%20Developer%20%7C%20AI%20%26%20ML%20Enthusiast&descAlignY=58&descSize=16" width="100%"/>
+
 <a href="https://github.com/Abhi-T-A">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Abhi+T+A+%F0%9F%91%8B;Backend+AI+Engineer+Intern;Java+%7C+Spring+Boot+%7C+PostgreSQL;Machine+Learning+%7C+AI+Automation;Always+Learning%2C+Always+Building+%E2%9C%A8" alt="Typing SVG" />
 </a>
@@ -236,3 +238,7 @@ Grow as a Backend AI Engineer
 </a>
 
 </div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
